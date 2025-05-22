@@ -1,4 +1,4 @@
-# Проект "Whois Service"
+# Проект "Big File Upload"
 
 Інструкція для запуску цього Laravel-проєкту після клонування з GitHub.
 
